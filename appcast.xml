@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Wed, 23 Sep 2026 07:18:54 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.4.0</h3><ul><li>The cat pulls four new pranks: hanging off the menu bar, peeking over a window, pushing a mug off a title bar, and walking over your keyboard</li><li>In the Touch Bar the cat now walks its own lane, back and forth</li><li>A live viewfinder shows the shot while the cat counts down, so the camera is never on without you seeing it</li><li>The cat reads the room: on a video call it goes quiet, it climbs more in a browser and stays on the desk while you code</li><li>Low Power Mode calms the cat down</li><li>Do Something Silly added to the menus</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.4.0/UnbelievableCat-1.4.0.zip" sparkle:edSignature="ITs7+XJxDpw0UKqbqic8WrMhK4ngFUno1Aeeie41Da4FvrAYwCb/r+V9cZ0dfdtN5eCg42GY7pyKL/iOIRCdBg==" length="9074032" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Wed, 23 Sep 2026 06:58:32 GMT</pubDate>
       <sparkle:version>5</sparkle:version>

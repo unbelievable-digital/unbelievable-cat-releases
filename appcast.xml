@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.1</title>
+      <pubDate>Wed, 23 Sep 2026 12:34:45 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.7.1</h3><ul><li>Here, Kitty Kitty: one button calls every cat in your office over to your screen at once. Each cat still decides for itself — a sleeping or hungry one stays put.</li><li>With more than one display you can now keep the cat, its bowl and its litter box on the screen you choose, or let it roam them all.</li><li>Visiting cats now go home by themselves after a few minutes, and straight away if they need a litter box, rather than moving in.</li><li>Getting ready for Unbelievable Jungle: this version keeps a copy of your cat where the new app will be able to find it, so your cat, its bond and its office can come with you. Nothing leaves your Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.7.1/UnbelievableCat-1.7.1.zip" sparkle:edSignature="I1CQUK56v40vJZmIUl9P+NbzKoWmvvgBUW7ZbmsGj+3UU0fm/BvHFSq9265Olfqte+8mH6mKKTBwjHVxegCOCA==" length="11787330" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Wed, 23 Sep 2026 11:17:47 GMT</pubDate>
       <sparkle:version>10</sparkle:version>

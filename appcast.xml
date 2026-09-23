@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Wed, 23 Sep 2026 07:36:56 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.5.0</h3><ul><li>The cat says good morning when you sit down, and learns which hours you are usually at the Mac</li><li>It mentions the hour when you are up late by your own standards, and suggests a break after a long stretch</li><li>Looking after it builds a bond over five levels, shown in Cat Home with the days you have been together</li><li>Leave it alone for a couple of days and it sulks until you win it back</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.5.0/UnbelievableCat-1.5.0.zip" sparkle:edSignature="wusAAIUTOKE/OUGDHZcJ23BziSg6ZQCw6XxpI98pInvggYj6rTWLj7foYM4MmQNMJPUZRdvRjiF3GTp7Iy/GCQ==" length="9106078" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <pubDate>Wed, 23 Sep 2026 07:18:54 GMT</pubDate>
       <sparkle:version>6</sparkle:version>

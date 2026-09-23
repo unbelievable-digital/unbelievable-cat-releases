@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Wed, 23 Sep 2026 13:19:23 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.8.0</h3><ul><li>Unbelievable Cat is now Unbelievable Jungle — and your pet can be a cat, a dog or a monkey. Your cat comes with you: its name, how well it knows you, its office and its polaroids.</li><li>This is the last version of Unbelievable Cat. It keeps working as it is, and a menu item takes you to Unbelievable Jungle whenever you are ready.</li><li>If Unbelievable Cat opens when you log in, Unbelievable Jungle will too.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.8.0/UnbelievableCat-1.8.0.zip" sparkle:edSignature="ih3R1FUqfFH2fHCpiJuCOANrLEP77gkF1uKhGtYKzTIlRFF91aogT90OddOqmXDBIym1ho6/xKHHWC7RXNaUCg==" length="11791969" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.1</title>
       <pubDate>Wed, 23 Sep 2026 12:34:45 GMT</pubDate>
       <sparkle:version>11</sparkle:version>

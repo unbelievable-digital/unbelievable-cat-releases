@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Wed, 23 Sep 2026 11:17:47 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.7.0</h3><ul><li>Office: cats can now wander between the screens of everybody who shares a join code. You make your own room, you share the code, and nobody who does not have it can find it — there is no list to browse.</li><li>Your cat walks off the side of your screen and turns up on somebody else&#x27;s, then comes home with whatever happened to it — fed, brushed, made a fuss of.</li><li>A visiting cat is a guest: it walks, climbs your windows and eats what you put down, but it never pranks, never uses the camera, never touches your windows and learns nothing about you.</li><li>You choose how many visitors your screen will show, up to 32, and whether your own cat may go out at all.</li><li>A cat can never be lost: whatever the network does, it always ends up back on your own floor.</li><li>The Touch Bar cat now gets the whole bar, with its mood, what it is up to, its needs and the buttons you press most.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.7.0/UnbelievableCat-1.7.0.zip" sparkle:edSignature="z1NSGziKk7+F4aEFUnKnxcsRVVtCVXXJ6AeZ3DzJweuHRvmUy9cmSwmFDZfkuQYU2l342kq8z9qh4Rb17FMACQ==" length="9522372" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.1</title>
       <pubDate>Wed, 23 Sep 2026 08:53:15 GMT</pubDate>
       <sparkle:version>9</sparkle:version>

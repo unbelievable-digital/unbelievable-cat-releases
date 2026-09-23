@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Wed, 23 Sep 2026 06:34:53 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.2.0</h3><ul><li>Personalities: sleepy, playful, clingy, shy, mischievous or chatty, with a default temperament per breed</li><li>Laser pointer: a red dot follows your cursor and the cat goes after it</li><li>Accessories now work on the illustrated breeds too, not just the Classic cat</li><li>The cat photographer: it pulls out a camera, counts down and takes a polaroid of you, collected in a Selfie Diary (off by default)</li><li>The Turkish Angora&#x27;s sleeping frames were drawn facing the wrong way; fixed</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.2.0/UnbelievableCat-1.2.0.zip" sparkle:edSignature="RYU8eyxovNo2cHyo+WW993riST9c9nDTYDgWy0XKTgaZ6dWRrbdkxLqkpVU8JN8ZoM3IqsKz7ARIC1DFhgnHAg==" length="8963744" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Wed, 23 Sep 2026 05:03:10 GMT</pubDate>
       <sparkle:version>3</sparkle:version>

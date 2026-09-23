@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.0</title>
+      <pubDate>Wed, 23 Sep 2026 08:30:28 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.6.0</h3><ul><li>The cat now roams every display, stepping onto whatever floor each screen has</li><li>New prank, off by default: it minimises the window you are working in, gloats, and gives it straight back</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.6.0/UnbelievableCat-1.6.0.zip" sparkle:edSignature="GH/fGIoiLsAU8GJEmM0c/qm8JpP/hd/0G/+r4I+NG3AsZOeZewpOYiAzV8xgyKgUbHja1CY13LQmlus93iWnCg==" length="9131823" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Wed, 23 Sep 2026 07:36:56 GMT</pubDate>
       <sparkle:version>7</sparkle:version>

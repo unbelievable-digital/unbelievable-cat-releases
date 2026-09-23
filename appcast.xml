@@ -6,6 +6,15 @@
     <description>Unbelievable Cat updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.1</title>
+      <pubDate>Wed, 23 Sep 2026 08:53:15 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 1.6.1</h3><ul><li>Turning on the window prank now explains the Accessibility permission before macOS asks, so you no longer get two dialogs at once.</li><li>Settings shows whether Accessibility permission is actually granted, with a button that opens the right pane — and it updates the moment you grant it.</li><li>The menu says &quot;needs permission&quot; while the prank cannot work, instead of sitting there switched on and silently doing nothing.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-cat-releases/releases/download/v1.6.1/UnbelievableCat-1.6.1.zip" sparkle:edSignature="lIwGOe6+BjlbVa2nKBsAY2ADsRBBSrTFLPPnacYs99XNw5pM2MA9NQqCySCVP11j9QIN/ozF45abqIVeBQdGAA==" length="9140790" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.0</title>
       <pubDate>Wed, 23 Sep 2026 08:30:28 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
